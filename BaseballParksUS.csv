@@ -1,0 +1,60 @@
+Team,Level,League,Division,City,Lat_Long
+Buffalo Bisons,AAA,International,North,"Buffalo, NY",42°52′52″N 78°52′27″W
+Charlotte Knights,AAA,International,South,"Charlotte, NC",35.227988°N 80.849011°W
+Columbus Clippers,AAA,International,West,"Columbus, OH",39.968619°N 83.010743°W
+Durham Bulls,AAA,International,South,"Durham, NC",35°59′30.08″N 78°54′15.07″W
+Gwinnett Stripers,AAA,International,South,"Lawrenceville, GA",34°2′29.38″N 83°59′32.52″W
+Indianapolis Indians,AAA,International,West,"Indianapolis, IN",39°45′54″N 86°10′6″W
+Lehigh Valley IronPigs,AAA,International,North,"Allentown, PA",40°37′34″N 75°27′9″W
+Louisville Bats,AAA,International,West,"Louisville, KY",38°15′22.27″N 85°44′40.75″W
+Norfolk Tides,AAA,International,South,"Norfolk, VA",36°50′34.04″N 76°16′43.93″W
+Pawtucket Red Sox[a],AAA,International,North,"Pawtucket, RI",41°52′23.39″N 71°22′12.14″W
+Rochester Red Wings,AAA,International,North,"Rochester, NY",43°9′29.76″N 77°37′11.26″W
+Scranton/Wilkes-Barre RailRiders,AAA,International,North,"Moosic, PA",41°21′37.46″N 75°41′2.28″W
+Syracuse Mets,AAA,International,North,"Syracuse, NY",43°4′44.68″N 76°9′55.29″W
+Toledo Mud Hens,AAA,International,West,"Toledo, OH",41°38′54″N 83°32′20″W
+Albuquerque Isotopes,AAA,Pacific,Southern,"Albuquerque, NM",35°4′11″N 106°37′45″W
+El Paso Chihuahuas,AAA,Pacific,Southern,"El Paso, TX",31.759°N 106.493°W
+Fresno Grizzlies,AAA,Pacific,Northern,"Fresno, CA",36.7321°N 119.7905°W
+Iowa Cubs,AAA,American,Northern,"Des Moines, IA",41°34′49″N 93°36′57″W
+Las Vegas Aviators,AAA,Pacific,Southern,"Las Vegas, NV",36°09′08.2″N 115°19′45.9″W
+Memphis Redbirds,AAA,American,Northern,"Memphis, TN",35°8′35″N 90°2′57″W
+Nashville Sounds,AAA,American,Northern,"Nashville, TN",36.173031°N 86.785033°W
+Oklahoma City Dodgers,AAA,American,Southern,"Oklahoma City, OK",35°27′53.86″N 97°30′28.98″W
+Omaha Storm Chasers,AAA,American,Northern,"Papillion, NE",41.151°N 96.107°W
+Reno Aces,AAA,Pacific,Northern,"Reno, NV",39.529°N 119.808°W
+Round Rock Express,AAA,American,Southern,"Round Rock, TX",30.5273°N 97.6305°W
+Sacramento River Cats,AAA,Pacific,Northern,"West Sacramento, CA",38°34′49.34″N 121°30′49.68″W
+San Antonio Missions,AAA,American,Southern,"San Antonio, TX",29°24′32.87″N 98°36′4.01″W
+Salt Lake Bees,AAA,Pacific,Southern,"Salt Lake City, UT",40.741°N 111.893°W
+Tacoma Rainiers,AAA,Pacific,Northern,"Tacoma, WA",47°14′16.92″N 122°29′51.16″W
+Wichita PCL team,AAA,American,Southern,"Wichita, KS",37°40′53″N 97°20′45″W
+Baltimore Orioles,Major League,American,East,"Baltimore, MD",39°17′2″N 76°37′18″W
+Boston Red Sox,Major League,American,East,"Boston, MA",42°20′47″N 71°5′51″W
+New York Yankees,Major League,American,East,"New York City, NY",40°49′45″N 73°55′35″W
+Tampa Bay Rays,Major League,American,East,"St. Petersburg, FL",27°46′6″N 82°39′12″W
+Chicago White Sox,Major League,American,Central,"Chicago, IL",41°49′48″N 87°38′2″W
+Cleveland Indians,Major League,American,Central,"Cleveland, OH",41°29′45″N 81°41′7″W
+Detroit Tigers,Major League,American,Central,"Detroit, MI",42°20′21″N 83°2′55″W
+Kansas City Royals,Major League,American,Central,"Kansas City, MO",39°3′5″N 94°28′50″W
+Minnesota Twins,Major League,American,Central,"Minneapolis, MN",44°58′54″N 93°16′42″W
+Houston Astros,Major League,American,Central,"Houston, TX",29°45′25″N 95°21′20″W
+Los Angeles Angels,Major League,American ,West,"Anaheim, CA",33°48′1″N 117°52′58″W
+Oakland Athletics,Major League,American ,West,"Oakland, CA",37°45′6″N 122°12′2″W
+Seattle Mariners,Major League,American ,West,"Seattle, WA",47°35′29″N 122°19′57″W
+Texas Rangers,Major League,American ,West,"Arlington, TX",32°45′5″N 97°4′58″W
+Atlanta Braves,Major League,National,East,"Atlanta, GA",33°53′24″N 84°28′4″W
+Miami Marlins,Major League,National,East,"Miami, FL",25°46′41″N 80°13′11″W
+New York Mets,Major League,National,East,"New York City, NY",40°45′25″N 73°50′45″W
+Philadelphia Phillies,Major League,National,East,"Philadelphia, PA",39°54′21″N 75°9′59″W
+Washington Nationals,Major League,National,Central,"Washington, DC",38°52′22″N 77°0′27″W
+Chicago Cubs,Major League,National,Central,"Chicago, IL",41°56′54″N 87°39′20″W
+Cincinnati Reds,Major League,National,Central,"Cincinnati, OH",39°5′51″N 84°30′24″W
+Milwaukee Brewers,Major League,National,Central,"Milwaukee, WI",43°1′42″N 87°58′16″W
+Pittsburgh Pirates,Major League,National,Central,"Pittsburgh, PA",40°26′49″N 80°0′21″W
+St. Louis Cardinals,Major League,National,Central,"St. Louis, MO",38°37′21″N 90°11′35″W
+Arizona Diamondbacks,Major League,National,West,"Phoenix, AZ",33°26′43″N 112°4′1″W
+Colorado Rockies,Major League,National,West,"Denver, CO",39°45′22″N 104°59′39″W
+Los Angeles Dodgers,Major League,National,West,"Los Angeles, CA",34°4′25″N 118°14′24″W
+San Diego Padres,Major League,National,West,"San Diego, CA",32°42′26″N 117°9′24″W
+San Francisco Giants,Major League,National,West,"San Francisco, CA",37°46′43″N 122°23′21″W
