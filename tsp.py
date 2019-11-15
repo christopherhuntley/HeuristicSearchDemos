@@ -90,7 +90,7 @@ def nearest_neighbor(head_idx=0):
     unvisited.remove(head_idx)
     
     # there are len(unvisited) spots to fill in city_lst
-    for i in range(len(unused)):
+    for i in range(len(unvisited)):
         # find the closest city in unsued to head_indx
         
         # keep track of best move so far; seed with initial values
